@@ -7,3 +7,7 @@ deployment:
     replicas: 1
     color: green
     weight: 5
+  - name: gold
+    replicas: 1
+    color: gold
+    weight: 5
